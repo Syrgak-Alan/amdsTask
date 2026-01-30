@@ -7,6 +7,10 @@
 *.ipch
 *.db
 
+# python env
+.venv
+__pycache__/
+
 # Prerequisites
 *.d
 
